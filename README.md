@@ -157,3 +157,4 @@ Everything lives inside the `main()` function, and the game starts only when the
 ## Author
 
 Made by Gasser as a Python course project.
+
